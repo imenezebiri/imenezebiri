@@ -18,7 +18,7 @@
 
 | 📁 Projet | 🔍 Description |
 |----------|----------------|
-| [Projet éolien](https://github.com/imenezebiri/projet_eolienne) | Étude de l’impact des éoliennes sur les prix de l’immobilier avec visualisation SIG et régressions en R |
+| [Projet éolien](https://github.com/imenezebiri/projet-eolienne) | Étude de l’impact des éoliennes sur les prix de l’immobilier avec visualisation SIG et régressions en R |
 | [Accidents de la route](https://github.com/imenezebiri/projet_accidents) | Analyse statistique des accidents corporels de la route en France avec R |
 | [Votes en Seine-Saint-Denis](https://github.com/imenezebiri/projet_vote_SeineStDenis) | Étude électorale avec ACP, CAH et cartes |
 | [Matières premières critiques](https://github.com/imenezebiri/revue_MCP) | Revue des enjeux européens + analyse statistique en R |
